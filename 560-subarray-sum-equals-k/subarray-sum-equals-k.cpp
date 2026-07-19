@@ -5,8 +5,8 @@ public:
         mp[0]=1;
         int prefixSum=0;
         int count=0;
-        for(int x:nums){
-            prefixSum+=x;
+        for(int i=0;i<nums.size();i++){
+            prefixSum+=nums[i];
             if(mp.count(prefixSum-k)){
                 count+=mp[prefixSum-k];
             }
