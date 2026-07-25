@@ -122,7 +122,7 @@ This repository contains my solutions to LeetCode problems in **C++**. I solve p
 **Himanshi Agrawal**
 
 * GitHub: **https://github.com/himanshiagrawal22**
-* LeetCode: **https://leetcode.com/u/himanshiagrawal22/**
+* LeetCode: **[https://leetcode.com/u/HimanshiAgrawal/]**
 
 ---
 
